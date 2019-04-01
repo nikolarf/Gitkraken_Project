@@ -9,3 +9,5 @@
 #exclude all jpg file in images folder
 
 /images/*.jpg
+
+*.log
